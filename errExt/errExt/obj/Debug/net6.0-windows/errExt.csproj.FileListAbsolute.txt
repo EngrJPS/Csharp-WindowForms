@@ -1,0 +1,17 @@
+C:\Users\Jhimooo\source\repos\errExt\errExt\bin\Debug\net6.0-windows\errExt.exe
+C:\Users\Jhimooo\source\repos\errExt\errExt\bin\Debug\net6.0-windows\errExt.deps.json
+C:\Users\Jhimooo\source\repos\errExt\errExt\bin\Debug\net6.0-windows\errExt.runtimeconfig.json
+C:\Users\Jhimooo\source\repos\errExt\errExt\bin\Debug\net6.0-windows\errExt.dll
+C:\Users\Jhimooo\source\repos\errExt\errExt\bin\Debug\net6.0-windows\errExt.pdb
+C:\Users\Jhimooo\source\repos\errExt\errExt\obj\Debug\net6.0-windows\errExt.csproj.AssemblyReference.cache
+C:\Users\Jhimooo\source\repos\errExt\errExt\obj\Debug\net6.0-windows\errExt.ERRLOGS.resources
+C:\Users\Jhimooo\source\repos\errExt\errExt\obj\Debug\net6.0-windows\errExt.csproj.GenerateResource.cache
+C:\Users\Jhimooo\source\repos\errExt\errExt\obj\Debug\net6.0-windows\errExt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jhimooo\source\repos\errExt\errExt\obj\Debug\net6.0-windows\errExt.AssemblyInfoInputs.cache
+C:\Users\Jhimooo\source\repos\errExt\errExt\obj\Debug\net6.0-windows\errExt.AssemblyInfo.cs
+C:\Users\Jhimooo\source\repos\errExt\errExt\obj\Debug\net6.0-windows\errExt.csproj.CoreCompileInputs.cache
+C:\Users\Jhimooo\source\repos\errExt\errExt\obj\Debug\net6.0-windows\errExt.dll
+C:\Users\Jhimooo\source\repos\errExt\errExt\obj\Debug\net6.0-windows\refint\errExt.dll
+C:\Users\Jhimooo\source\repos\errExt\errExt\obj\Debug\net6.0-windows\errExt.pdb
+C:\Users\Jhimooo\source\repos\errExt\errExt\obj\Debug\net6.0-windows\errExt.genruntimeconfig.cache
+C:\Users\Jhimooo\source\repos\errExt\errExt\obj\Debug\net6.0-windows\ref\errExt.dll
