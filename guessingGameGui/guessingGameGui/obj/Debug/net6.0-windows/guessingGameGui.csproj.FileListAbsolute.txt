@@ -1,0 +1,17 @@
+C:\Users\Jhimooo\source\repos\guessingGameGui\guessingGameGui\bin\Debug\net6.0-windows\guessingGameGui.exe
+C:\Users\Jhimooo\source\repos\guessingGameGui\guessingGameGui\bin\Debug\net6.0-windows\guessingGameGui.deps.json
+C:\Users\Jhimooo\source\repos\guessingGameGui\guessingGameGui\bin\Debug\net6.0-windows\guessingGameGui.runtimeconfig.json
+C:\Users\Jhimooo\source\repos\guessingGameGui\guessingGameGui\bin\Debug\net6.0-windows\guessingGameGui.dll
+C:\Users\Jhimooo\source\repos\guessingGameGui\guessingGameGui\bin\Debug\net6.0-windows\guessingGameGui.pdb
+C:\Users\Jhimooo\source\repos\guessingGameGui\guessingGameGui\obj\Debug\net6.0-windows\guessingGameGui.csproj.AssemblyReference.cache
+C:\Users\Jhimooo\source\repos\guessingGameGui\guessingGameGui\obj\Debug\net6.0-windows\guessingGameGui.Form1.resources
+C:\Users\Jhimooo\source\repos\guessingGameGui\guessingGameGui\obj\Debug\net6.0-windows\guessingGameGui.csproj.GenerateResource.cache
+C:\Users\Jhimooo\source\repos\guessingGameGui\guessingGameGui\obj\Debug\net6.0-windows\guessingGameGui.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jhimooo\source\repos\guessingGameGui\guessingGameGui\obj\Debug\net6.0-windows\guessingGameGui.AssemblyInfoInputs.cache
+C:\Users\Jhimooo\source\repos\guessingGameGui\guessingGameGui\obj\Debug\net6.0-windows\guessingGameGui.AssemblyInfo.cs
+C:\Users\Jhimooo\source\repos\guessingGameGui\guessingGameGui\obj\Debug\net6.0-windows\guessingGameGui.csproj.CoreCompileInputs.cache
+C:\Users\Jhimooo\source\repos\guessingGameGui\guessingGameGui\obj\Debug\net6.0-windows\guessingGameGui.dll
+C:\Users\Jhimooo\source\repos\guessingGameGui\guessingGameGui\obj\Debug\net6.0-windows\refint\guessingGameGui.dll
+C:\Users\Jhimooo\source\repos\guessingGameGui\guessingGameGui\obj\Debug\net6.0-windows\guessingGameGui.pdb
+C:\Users\Jhimooo\source\repos\guessingGameGui\guessingGameGui\obj\Debug\net6.0-windows\guessingGameGui.genruntimeconfig.cache
+C:\Users\Jhimooo\source\repos\guessingGameGui\guessingGameGui\obj\Debug\net6.0-windows\ref\guessingGameGui.dll
